@@ -9,7 +9,7 @@
 ![Licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-00ff41?style=flat-square&labelColor=020a04)
 ![Grátis](https://img.shields.io/badge/pre%C3%A7o-gr%C3%A1tis-00ff41?style=flat-square&labelColor=020a04)
 
-Tema Matrix · Sem instalação · Código aberto e legível · Feito no Brasil
+Sem instalação · Código aberto e legível · Feito no Brasil
 
 </div>
 
